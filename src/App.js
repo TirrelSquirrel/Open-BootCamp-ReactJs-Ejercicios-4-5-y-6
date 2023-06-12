@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ClockClase></ClockClase>
       </header>
       <div>
         <Clock nombre='Baute'></Clock>
